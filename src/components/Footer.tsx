@@ -14,7 +14,7 @@ const Footer = () => {
           </span>
           <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
             <a
-              href="https://github.com/devanshi2024/genuinz"
+              href="https://github.com/devanshi2024/Genuinz24"
               target="_blank"
               className="text-gray-700 hover:text-gray-900 dark:hover:text-white dark:text-gray-300"
               rel="noreferrer"
